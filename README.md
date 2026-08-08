@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img
+    alt="Mohamed Thamim Ansari J — Animated Developer Profile"
+    src="./dark.svg"
+  />
+</picture>
+
+# Hi 👋 I'm Mohamed Thamim Ansari J
+
+💻 Software Engineer  
+☁️ Currently focused on Cloud Engineering  
+🎓 2nd Year Computer Science Student  
+📍 Chennai
+
+### Connect with me
+
+📧 thamim7206@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/thamim-jr)
+
+🐙 [GitHub](https://github.com/Thamimts)
+
+🌐 [Portfolio](https://portfollio-dev.vercel.app/)
