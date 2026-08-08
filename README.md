@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark(1).svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light(1).svg">
   <img
     alt="Mohamed Thamim Ansari J — Animated Developer Profile"
     src="./dark.svg"
